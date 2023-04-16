@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Poppins', sans-serif;
+}
+
+body{
+
+}
+
+.hero{
+    background-image: url('b.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.macro{
+    font-size: 5em;
+    color: white;
+}
+
+.micro{
+    font-size: 4em;
+    color: whitesmoke;
+}
+
+#hero{
+    font-size: 4em;
+    color: wheat;
+}
