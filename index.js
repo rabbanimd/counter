@@ -7,7 +7,7 @@ var x = setInterval(()=>{
     const seconds_el = document.getElementById('seconds');
     const targetDays = 90;
 
-    var start_time = new Date("mar 05, 2023 00:00:00").getTime();
+    var start_time = new Date("apr 25, 2023 00:00:00").getTime();
 
     var deadLine = start_time + targetDays * 24*60*60 *1000;
 
